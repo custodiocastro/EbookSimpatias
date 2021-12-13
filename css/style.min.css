@@ -106,10 +106,12 @@ button{
   background-color: #4dd544;
 }
 .hotmart-fbhotmart__button-checkout{
-  background-color: red;
-  text-decoration: none;
-  box-shadow: none;
-  box-shadow: none;
+  margin: none;
+  color: white;
+  padding: 40px 40px;
+  border-style: none;
+  border-radius: 50px;
+  background-color: #4dd544;
 }
 .space{
   padding: 40px 40px;
